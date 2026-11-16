@@ -6,6 +6,7 @@ A modern, responsive and interactive event management website designed for the D
 
 The website provides a centralized platform for exploring upcoming events, registering for activities, viewing event galleries, learning about the department and contacting the event team.
 
+**Live Website:** [Click Here to View the Live Website](https://gregarious-fenglisu-5e088a.netlify.app/)
 ---
 
 ## ✨ Features
